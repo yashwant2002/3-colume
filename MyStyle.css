@@ -1,0 +1,52 @@
+.container{
+    width: 1440px; 
+    margin: 0 auto; 
+}
+body{
+    font-size: 15px;
+    display: flex;
+}
+
+#sedans{
+    width: 380px;
+    background-color: hsl(31, 77%, 52%);
+    float: left;
+    padding: 50px;
+    height: 500px;
+    padding-top: 10%;
+}
+.suvs{
+    width: 380px;
+    background-color:hsl(184, 100%, 22%);
+    padding: 50px;
+    float: left;
+    height: 500px;padding-top: 10%;
+    padding-top: 10%;
+}
+.luxury{
+    width: 380px;
+    background-color:hsl(179, 100%, 13%);
+    padding: 50px;
+    height: 500px;
+    float: left;
+    padding-top: 10%;
+}
+h1{
+    color: hsl(0, 0%, 95%);
+    font-family: 'Lexend Deca', sans-serif;
+    font: size 15px; ;
+}
+p{
+    color: hsla(0, 0%, 100%, 0.75);
+    font-family: 'Big Shoulders Display', cursive;
+
+}
+a{
+    text-decoration: none;
+    background-color: white;
+    padding: 10px;
+    border-radius: 30px;
+    padding: auto;
+}
+
+
